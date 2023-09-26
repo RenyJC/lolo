@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-08 13:45-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\Soluciones_Textiles\forms.py:10
+msgid "Contraseña"
+msgstr "Contraseña"
+
+#: .\Soluciones_Textiles\forms.py:11
+msgid "Confirmar contraseña"
+msgstr "Confirmar contraseña"
+
+#: .\Soluciones_Textiles\forms.py:12
+msgid "Requerido, ingrese un correo electrónico válido."
+msgstr "Requerido, ingrese un correo electrónico válido."
+
+#: .\Soluciones_Textiles\forms.py:18
+msgid "Nombre de usuario"
+msgstr "Nombre de Usuario"
+
+#: .\Soluciones_Textiles\forms.py:21
+msgid "Requerido. 150 caracteres o menos. Letras, dígitos y @/./+/-/_ solamente."
+msgstr "Requerido. 150 caracteres o menos. Letras, dígitos y @/./+/-/_ solamente."
+
+#: .\Soluciones_Textiles\forms.py:29
+msgid "Las contraseñas no coinciden"
+msgstr "Las contraseñas no coinciden"
+
+#: .\Soluciones_Textiles\models.py:520
+msgid "Advance Amount (COP)"
+msgstr "Monto del Avance (COP)"
+
+#: .\Soluciones_Textiles\models.py:521
+msgid "Request Date"
+msgstr "Fecha de solicitud"
+
+#: .\Soluciones_Textiles\models.py:522
+msgid "Description"
+msgstr "Descripción"
+
+#: .\Soluciones_Textiles\models.py:525
+msgid "Advance"
+msgstr "Avance"
+
+#: .\Soluciones_Textiles\models.py:526
+msgid "Advances"
+msgstr "Avances"
+
+#: .\Soluciones_Textiles\models.py:533
+msgid "Holiday Worked"
+msgstr "Días festivos trabajados"
+
+#: .\Soluciones_Textiles\models.py:534
+msgid "Outstanding Performance"
+msgstr "Rendimiento excepcional"
+
+#: .\Soluciones_Textiles\models.py:535
+msgid "Helped with Heavy Lifting"
+msgstr "Ayudó a levantar peso"
+
+#: .\Soluciones_Textiles\models.py:536
+msgid "Other"
+msgstr "Otros"
+
+#: .\Soluciones_Textiles\models.py:540
+msgid "Bonus Amount (COP)"
+msgstr "Monto del Bono (COP)"
+
+#: .\Soluciones_Textiles\models.py:541
+msgid "Grant Date"
+msgstr "Fecha de concesión"
+
+#: .\Soluciones_Textiles\models.py:542
+msgid "Reason"
+msgstr "Razón"
+
+#: .\Soluciones_Textiles\models.py:545
+msgid "Bonus"
+msgstr "Bono"
+
+#: .\Soluciones_Textiles\models.py:546
+msgid "Bonuses"
+msgstr "Bonos"
